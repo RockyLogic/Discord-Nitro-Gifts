@@ -1,7 +1,7 @@
 # Discord-Nitro-Gifts
-Automates accepting nitro gifts, through discord self bot with Discord.py.
+Automates redeeming nitro gifts, through discord self bot with Discord.py.
 
-Self botting can result in your account getting banned! If the accounts joins too many accounts in a short time interval, it is very likely you could be banned! Use this program only if you understand the risks involved!
+Self botting can result in your account getting banned! If the program sends too many requests in a short time interval, it is very likely you could be banned! Use this program only if you understand the risks involved!
 
 The program looks through all new messages, looking for any and all nitro gifts, once one is found, it will automatically attempt to redeem the nitro gift through discords APIs.
 
